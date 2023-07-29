@@ -1,10 +1,3 @@
-package assignment;
-//GRIGORIOS - RAFAIL VASILEIOY  AM: 5042
-
-/**
- * Information about 1 card.
- *
- */
 public class Card {
 	private Suit suit;
 	private int number; // number is from 0 to 9
